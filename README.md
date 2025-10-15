@@ -10,12 +10,16 @@ Cada subpasta deste repositório representa um template para uma stack específi
 
 ```
 codespaces-templates/
-├── README.md                 # Este arquivo
-├── vue/                      # Template para Vue.js
-├── angular/                  # Template para Angular
-├── next/                     # Template para Next.js
-├── java8/                    # Template para Java 8
-└── ...                       # Outras stacks/versões
+├── README.md                 
+├── vue/
+│   ├── .devcontainer/devcontainer.json
+│   ├── package.json
+│   └── README.md
+├── angular/
+│   └── ...
+├── next/
+│   └── ...
+└── ...
 ```
 
 Cada subpasta contém:
