@@ -1,4 +1,4 @@
-# 🚀 codespaces-templates
+# 🚀 Codespaces Templates
 
 Este repositório centraliza diversos **templates prontos para uso no GitHub Codespaces**, organizados em subpastas conforme diferentes stacks, frameworks e versões de linguagens. O objetivo é facilitar a inicialização rápida de ambientes de desenvolvimento padronizados, promovendo agilidade, consistência e produtividade em projetos individuais ou de equipe.
 
@@ -15,7 +15,6 @@ codespaces-templates/
 ├── angular/                  # Template para Angular
 ├── next/                     # Template para Next.js
 ├── java8/                    # Template para Java 8
-├── java17/                   # Template para Java 17
 └── ...                       # Outras stacks/versões
 ```
 
@@ -81,7 +80,7 @@ Depois, abra o Codespaces (ou VS Code com extensão Remote - Containers).
 ## 💡 Exemplos de Subpastas
 
 - `vue/` — Ambiente Node.js com extensões para Vue, projeto de exemplo com Vue CLI.
-- `java17/` — Ambiente com Java 17, Maven configurado, exemplo Hello World.
+- `java21/` — Ambiente com Java 21, Maven configurado, exemplo Hello World.
 - `next/` — Ambiente Node.js com Next.js instalado e pronto para desenvolvimento SSR.
 
 ---
@@ -93,6 +92,6 @@ Este repositório é colaborativo. Sinta-se à vontade para sugerir novos templa
 ---
 
 **Mantenedores:**  
-- [Seu Nome/Organização](https://github.com/seu-usuario)
+- [Seu Nome/Organização](https://github.com/williamlimasilva)
 
 ---
