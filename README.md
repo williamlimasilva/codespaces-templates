@@ -92,6 +92,6 @@ Este repositório é colaborativo. Sinta-se à vontade para sugerir novos templa
 ---
 
 **Mantenedores:**  
-- [Seu Nome/Organização](https://github.com/williamlimasilva)
+- [WIlliam Lima Silva](https://github.com/williamlimasilva)
 
 ---
